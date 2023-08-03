@@ -1,1 +1,1 @@
-# blogapp
+Blog app using mern stack by Ankit Anand
